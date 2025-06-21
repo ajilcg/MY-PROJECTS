@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "vNZPJ/nU5aWAb15xunRxPJpByyDW8D42Yt61fkr5GqU=",
+  "Source": "BBPSApi",
+  "BasePath": "_content/BBPSApi",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

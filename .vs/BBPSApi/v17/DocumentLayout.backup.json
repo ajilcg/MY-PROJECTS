@@ -1,0 +1,294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\John\\BBPSApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Dto\\PostPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Dto\\PostPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Controllers\\BBPSController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Controllers\\BBPSController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Service\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Service\\JwtService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Service\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Service\\DataService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Data\\CommonEncryptDecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Data\\CommonEncryptDecrypt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Data\\DependencyInstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Data\\DependencyInstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Data\\AppSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Data\\AppSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Dto\\Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Dto\\Response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Model\\UserAccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Model\\UserAccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Controllers\\AccountController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Model\\LoginRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Model\\LoginRequestModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Model\\LoginResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Model\\LoginResponseModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Dto\\FetchLoanDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Dto\\FetchLoanDetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\John\\BBPSApi\\BBPSApi\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BBPSApi\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.PackageDependencyResolution.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.100-rc.1.24452.12\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAowAkBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-21T10:16:23.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\appsettings.json",
+              "RelativeDocumentMoniker": "BBPSApi\\appsettings.json",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\appsettings.json",
+              "RelativeToolTip": "BBPSApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T06:49:34.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PostPayment.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Dto\\PostPayment.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Dto\\PostPayment.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Dto\\PostPayment.cs",
+              "RelativeToolTip": "BBPSApi\\Dto\\PostPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:20:10.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Program.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Program.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Program.cs",
+              "RelativeToolTip": "BBPSApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAIBJwDMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T09:51:43.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BBPSController.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Controllers\\BBPSController.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Controllers\\BBPSController.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Controllers\\BBPSController.cs",
+              "RelativeToolTip": "BBPSApi\\Controllers\\BBPSController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAIBJwFoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:27:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Service\\JwtService.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Service\\JwtService.cs",
+              "RelativeToolTip": "BBPSApi\\Service\\JwtService.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAIBJwFUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:58:36.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Service\\DataService.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Service\\DataService.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Service\\DataService.cs",
+              "RelativeToolTip": "BBPSApi\\Service\\DataService.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAuwEoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:09:44.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommonEncryptDecrypt.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Data\\CommonEncryptDecrypt.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Data\\CommonEncryptDecrypt.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Data\\CommonEncryptDecrypt.cs",
+              "RelativeToolTip": "BBPSApi\\Data\\CommonEncryptDecrypt.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:10:52.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInstaller.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Data\\DependencyInstaller.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Data\\DependencyInstaller.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Data\\DependencyInstaller.cs",
+              "RelativeToolTip": "BBPSApi\\Data\\DependencyInstaller.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwCIAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:35:26.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Data\\AppSettings.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Data\\AppSettings.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Data\\AppSettings.cs",
+              "RelativeToolTip": "BBPSApi\\Data\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:35:24.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Response.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Dto\\Response.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Dto\\Response.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Dto\\Response.cs",
+              "RelativeToolTip": "BBPSApi\\Dto\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T11:11:50.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserAccounts.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Model\\UserAccounts.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Model\\UserAccounts.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Model\\UserAccounts.cs",
+              "RelativeToolTip": "BBPSApi\\Model\\UserAccounts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:39:40.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "BBPSApi\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIBQwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:34:44.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginRequestModel.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Model\\LoginRequestModel.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Model\\LoginRequestModel.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Model\\LoginRequestModel.cs",
+              "RelativeToolTip": "BBPSApi\\Model\\LoginRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:39:45.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponseModel.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Model\\LoginResponseModel.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Model\\LoginResponseModel.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Model\\LoginResponseModel.cs",
+              "RelativeToolTip": "BBPSApi\\Model\\LoginResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:39:44.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FetchLoanDetails.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Dto\\FetchLoanDetails.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Dto\\FetchLoanDetails.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Dto\\FetchLoanDetails.cs",
+              "RelativeToolTip": "BBPSApi\\Dto\\FetchLoanDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T06:08:49.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\John\\BBPSApi\\BBPSApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BBPSApi\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\John\\BBPSApi\\BBPSApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BBPSApi\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T10:35:23.248Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "BBPSApi.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/Account/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BBPSApi.Model.LoginRequestModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BBPSApi.Model.LoginResponseModel",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "BBPSApi.Controllers.BBPSApi",
+    "Method": "Get",
+    "RelativePath": "api/BBPSApi/GetData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "inputParameter",
+        "Type": "BBPSApi.Controllers.InputParameter",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BBPSApi.Controllers.BBPSApi",
+    "Method": "PostPayment",
+    "RelativePath": "api/BBPSApi/Payment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "postPayment",
+        "Type": "BBPSApi.Dto.PostPayment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

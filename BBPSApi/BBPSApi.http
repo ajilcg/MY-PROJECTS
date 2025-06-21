@@ -1,0 +1,6 @@
+@BBPSApi_HostAddress = http://localhost:5062
+
+GET {{BBPSApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
